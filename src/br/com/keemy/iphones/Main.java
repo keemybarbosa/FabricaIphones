@@ -10,7 +10,6 @@ public class Main {
         iphone9 = factory.cadastrarIphone(IPhoneFactory.TypeIphoneEnum.IPHONE_9);
         iphone13Mini = factory.cadastrarIphone(IPhoneFactory.TypeIphoneEnum.IPHONE_13_MINI);
 
-
         iphoneX.exibirDetalhes();
         System.out.println();
         iphone9.exibirDetalhes();
